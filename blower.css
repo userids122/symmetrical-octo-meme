@@ -1,0 +1,17 @@
+.min,.medium,.max{
+    cursor:pointer;
+    height:100px;
+    width:150px;
+    border-radius:20px;
+}
+.min{
+    background-color: rgb(193, 255, 24);
+    font-size:15px;
+}
+.medium{
+    background-color:rgb(252, 119, 10);
+}
+.max{
+    background-color: orangered;
+}
+
